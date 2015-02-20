@@ -1,0 +1,14 @@
+{
+  "name": "search-request-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "q": "^1.1.2",
+    "queue": "^3.0.10",
+    "request": "^2.53.0"
+  }
+}
